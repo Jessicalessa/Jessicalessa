@@ -1,5 +1,4 @@
 ### Hi there ! Meu nome é Jéssica Estevam Lessa, bem vindo(a) ao meu git! :computer:
-Sou estudante de Engenharia computacional pela Univesp.
 
 <!--
 **Jessicalessa/Jessicalessa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
