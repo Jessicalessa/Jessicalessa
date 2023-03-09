@@ -5,3 +5,7 @@
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jessicalessa&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jessicalessa&layout=compact)](https://github.com/Jessicalessa/github-readme-stats)
+
+<div>
+  <img src="octocat" widht="100px" height="200">
+</div>
