@@ -5,6 +5,7 @@
 -->
 ![J E L](https://user-images.githubusercontent.com/93428392/224326504-8f72cff3-fd93-4a1c-92fc-2c330ac7260f.png)
 
+<img src="https://user-images.githubusercontent.com/93428392/224326504-8f72cff3-fd93-4a1c-92fc-2c330ac7260f.png" alt="jel" height="150"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jessicalessa&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jessicalessa&layout=compact)](https://github.com/Jessicalessa/github-readme-stats)
