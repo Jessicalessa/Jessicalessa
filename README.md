@@ -10,7 +10,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jessicalessa&layout=compact)](https://github.com/Jessicalessa/github-readme-stats)
 
 <p alinhar=esquerda>
-<img src="https://user-images.githubusercontent.com/93428392/224031652-282e110f-6191-4f2e-80cc-178a116f187d.png" alt="octocat" width="70" height="70"/>
+<img src="https://user-images.githubusercontent.com/93428392/224031652-282e110f-6191-4f2e-80cc-178a116f187d.png" alt="octocat" width="100" height="100"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
