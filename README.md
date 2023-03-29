@@ -6,8 +6,6 @@
 
 <img src="https://user-images.githubusercontent.com/93428392/224326504-8f72cff3-fd93-4a1c-92fc-2c330ac7260f.png" alt="jel" height="200"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Jessicalessa=anuraghazra&show_icons=true&theme=transparent)
-
 
 <p >
 <img src="https://user-images.githubusercontent.com/93428392/224031652-282e110f-6191-4f2e-80cc-178a116f187d.png" alt="octocat" width="100" height="100"/>
