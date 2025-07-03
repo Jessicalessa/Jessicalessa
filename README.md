@@ -13,7 +13,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python" width="50" height="50" />
 No momento estou aprendendo:
-<img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor
-
-" alt="react" width="50" height="50"/>
+<img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" alt="react" width="50" height="50"/>
 </p>
